@@ -1,5 +1,5 @@
-function DoSomething() {
-	var x = 0;
-	var y = 1;
+function DoSomething(newX, newY) {
+	var x = newX;
+	var y = newY;
 	var z = x+y;
 }
