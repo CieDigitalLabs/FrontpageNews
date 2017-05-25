@@ -10,7 +10,12 @@
         </style>
         <script language="JavaScript">
             $(document).ready(function() {
-                alert("Welcome to the site. This isn't annoying at all!");
+ 
+
+                $("h1").on('mouseover',
+                    function() {
+                        $(this).css('color', 'red');
+                    });
             });
         </script>
     </head>
