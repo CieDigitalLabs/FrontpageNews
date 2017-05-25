@@ -6,11 +6,21 @@
             body {
                 font-family: Arial,Helvetica,sans-serif;
                 font-size: 1.0em;
+
+
+            }
+
+            footer {
+                font-size: 1.2em;
+                color: green;
             }
         </style>
         <script language="JavaScript">
             $(document).ready(function() {
-             
+                $('footer').on('click',
+                    function() {
+                        alert("That means don't steal this fake news. It's our fake news.");
+                    });
             });
         </script>
     </head>
