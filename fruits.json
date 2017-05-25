@@ -3,14 +3,6 @@
     "fruits": [
         "apricot",
         "avocado",
-        "banana",
-        "bell pepper",
-        "bilberry",
-        "blackberry",
-        "blackcurrant",
-        "blueberry",
-        "boysenberry",
-        "breadfruit",
         "canary melons",
         "cantaloupe",
         "cherimoya",
@@ -54,5 +46,13 @@
         "tomato",
         "ugli fruit",
         "watermelon"
+        "banana",
+        "bell pepper",
+        "bilberry",
+        "blackberry",
+        "blackcurrant",
+        "blueberry",
+        "boysenberry",
+        "breadfruit",
     ]
 }
